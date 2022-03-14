@@ -13,7 +13,7 @@ Imagine we're working together on this todo list feature (in Vue). Our user feed
 
 ## Submission instructions
 Fork the project on CodeSandbox at: https://githubbox.com/Phamily/vue-todo-pwa<br>
-*Note: You may have to to refresh once to give the modules time to transpile.*
+*Note: You may have to refresh once to give the modules time to transpile.*
 
 Add your features. Then email us:
   1. A completed CodeSandbox link showing your working code.
